@@ -269,7 +269,7 @@ h1 {
     background:
     radial-gradient(circle at 10% 20%, var(--primaria) 0%, transparent 20%),
     radial-gradient(circle at 90% 80%, var(--secundaria) 0%, transparent 20%);
-    var(--maisEscuro);
+    color: var(--maisEscuro);
 }
 
 
